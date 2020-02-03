@@ -28,5 +28,28 @@ The analysis of the elections show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
+The Challenge was to:
+1. Get  a complete list of counties in which elections were held.
+2. Calculate the number of votes per county.
+3. Calculate the voter turnout in each county.
+4. Find out the county with largest turnout.
+5. Print the outcomes of the election analysis in the terminal.
+6. Save the outcomes of the election analysis in the text file.
 
 ## Challenge Summary
+The analyis of the elections show that:
+- There were three counties (named Jefferson, Denver and Arapahoe) in which elections were held.
+- The number of votes per county are:
+  - Jefferson:  38,855
+  - Denver: 306,055
+  - Arapahoe: 24,801
+ - The voter turnout per county is:
+  - Jefferson: 10.5% 
+  - Denver: 82.8% 
+  - Arapahoe: 6.7% 
+ - The county with largest turnout is Denver.
+ - The outcomes of the election analysis are able to print in the terminal.
+ - Saved the outcomes of the election analysis in the text file.
+
+
+
