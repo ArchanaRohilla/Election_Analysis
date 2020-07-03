@@ -19,7 +19,7 @@ A Colorado Board of Elections employee has given the following tasks to complete
 - Data Source : election_results.csv
 - Software :Python 3.7.6, Visual Studio Code, 1.41.1
 
-## Summary
+## Summary of Results
 The analysis of the elections show that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
@@ -32,10 +32,6 @@ The analysis of the elections show that:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
  - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
-
-
-## Challenge Summary
-The analyis of the elections show that:
 - There were three counties (named Jefferson, Denver and Arapahoe) in which elections were held.
 - The number of votes per county are:
   - Jefferson:  38,855
