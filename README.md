@@ -44,10 +44,11 @@ The analysis of the elections show that:
  - The county with largest turnout is Denver.
  - The outcomes of the election analysis are able to print in the terminal.
 
-![alt text](Images/terminal_results1.png)
+	![alt text](Images/terminal_results1.png)
 
  - Saved the outcomes of the election analysis in the text file.
-![alt text](Images/ProcessFlow.png)
+
+	![alt text](Images/text_results1.png)
 
 
 
