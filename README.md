@@ -33,14 +33,6 @@ The analysis of the elections show that:
  - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-## Challenge Overview
-The Challenge was to:
-1. Get  a complete list of counties in which elections were held.
-2. Calculate the number of votes per county.
-3. Calculate the voter turnout in each county.
-4. Find out the county with largest turnout.
-5. Print the outcomes of the election analysis in the terminal.
-6. Save the outcomes of the election analysis in the text file.
 
 ## Challenge Summary
 The analyis of the elections show that:
